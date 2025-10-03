@@ -66,19 +66,19 @@
 ###
 
 <div align="center">
-  <img height="200" src="/contribution_2025.png"  />
+  <img height="200" width="500" src="/contribution_2025.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="/contribution_2024.png"  />
+  <img height="200" width="500" src="/contribution_2024.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="/contribution_2023.png"  />
+  <img height="200" width="500" src="/contribution_2023.png"  />
 </div>
 
 ###
