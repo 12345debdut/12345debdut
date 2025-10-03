@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="/profile_title.png"  />
+  <img height="400" width="400" src="/profile_title.png"  />
 </div>
 
 ###
