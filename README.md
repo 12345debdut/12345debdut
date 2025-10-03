@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="/assets/images/profile_title.png"  />
+  <img height="200" src="/profile_title.png"  />
 </div>
 
 ###
@@ -66,19 +66,19 @@
 ###
 
 <div align="center">
-  <img height="200" src="/assets/images/contribution_2025.png"  />
+  <img height="200" src="/contribution_2025.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="/assets/images/contribution_2024.png"  />
+  <img height="200" src="/contribution_2024.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="/assets/images/contribution_2023.png"  />
+  <img height="200" src="/contribution_2023.png"  />
 </div>
 
 ###
