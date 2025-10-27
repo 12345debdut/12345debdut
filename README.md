@@ -169,7 +169,7 @@
 
 ###
 
-<h6 align="left">- Home page revamp (Flutter to Native server driven UI migration)<br>- Order Pad revamp<br>- Validation Engine<br>- Template engine<br>- Remote config provider<br>- Baseline profiling</h6>
+<p align="left">- Home page revamp (Flutter to Native server driven UI migration)<br>- Order Pad revamp<br>- Validation Engine<br>- Template engine<br>- Remote config provider<br>- Baseline profiling</p>
 
 ###
 
@@ -177,7 +177,7 @@
 
 ###
 
-<h6 align="left">- Tounament Battle<br>- Super gifting<br>- Gifting experience<br>- Chatroom jetpack compose migration from normal XML.</h6>
+<p align="left">- Tounament Battle<br>- Super gifting<br>- Gifting experience<br>- Chatroom jetpack compose migration from normal XML.</p>
 
 ###
 
@@ -185,6 +185,6 @@
 
 ###
 
-<h6 align="left">- EDGE-365 (Retails project for measuring product KPIs)<br>- Form handling (Feature name exactly not remember) with recyclerview<br>- Home page dashboard implementation.<br>- SQLDelight to Room migration.</h6>
+<p align="left">- EDGE-365 (Retails project for measuring product KPIs)<br>- Form handling (Feature name exactly not remember) with recyclerview<br>- Home page dashboard implementation.<br>- SQLDelight to Room migration.</p>
 
 ###
