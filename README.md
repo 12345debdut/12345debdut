@@ -18,7 +18,7 @@
 
 ###
 
-<h6 align="left">-📱 Android Native Development (Primary proficiency)<br>-📞 React-Native development<br>- 💻  IOS Development<br>-❄️ React.js (Frontend development)<br>-🪖  Node.js (Backend development)<br>-💡  Go lang (Backend development)</h6>
+<p align="left">-📱 Android Native Development (Primary proficiency)<br>-📞 React-Native development<br>- 💻  IOS Development<br>-❄️ React.js (Frontend development)<br>-🪖  Node.js (Backend development)<br>-💡  Go lang (Backend development)</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h6 align="left">- 🔭 SDE-3, AngelOne<br>- 📚 SDE-2, Sharechat<br>- ⚡ System Engineer, TCS</h6>
+<p align="left">- 🔭 SDE-3, AngelOne<br>- 📚 SDE-2, Sharechat<br>- ⚡ System Engineer, TCS</p>
 
 ###
 
