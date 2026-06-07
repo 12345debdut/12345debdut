@@ -62,14 +62,6 @@ I'm now actively building backend systems — **CDC pipelines in Go**, **real-ti
 
 ---
 
-## :trophy: GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12345debdut&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
 ## :package: Open-Source Libraries I've Built
 
 <table>
